@@ -1,0 +1,20 @@
+# Executable files
+*.exe
+
+# Debug Files
+*.ilk
+*.pdb
+*.obj
+*.o
+
+# User data
+guild.txt
+*.txt
+
+# vscode
+.vscode/
+
+# build directory
+build/
+bin/
+
